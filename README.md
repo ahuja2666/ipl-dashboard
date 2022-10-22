@@ -22,7 +22,8 @@
   
   
  # Screenshots       
-   # mobile view    ![mobile_view_1](https://user-images.githubusercontent.com/84536185/197348817-31842d9e-e141-474c-9ef4-9c725859489a.png)     
+   # mobile view    
+![mobile_view_1](https://user-images.githubusercontent.com/84536185/197348817-31842d9e-e141-474c-9ef4-9c725859489a.png)     
 ![mobile_view_2](https://user-images.githubusercontent.com/84536185/197348824-491a58a2-dbc3-4dcd-9117-695574887842.png)      
 
  #Desktop view     
