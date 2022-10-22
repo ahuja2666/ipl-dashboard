@@ -1,0 +1,35 @@
+.parentofallcn {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.headers {
+  text-align: center;
+  color: #209cee;
+}
+.selyear {
+  margin-left: 20px;
+  font-weight: bold;
+  font-size: larger;
+  color: white;
+}
+.totalm {
+  font-weight: bolder;
+  font-size: large;
+  text-align: center;
+  color: white;
+}
+.anotherfb {
+  display: flex;
+}
+
+@media only screen and (max-width: 980px) {
+  .anotherfb {
+    flex-direction: column;
+
+    margin-right: 25px;
+  }
+  .stdiumdic {
+    margin-right: 20px;
+  }
+}

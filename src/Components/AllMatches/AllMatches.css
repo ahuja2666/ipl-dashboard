@@ -1,0 +1,25 @@
+.allmtcof {
+  text-align: center;
+  font-weight: bold;
+  font-size: large;
+  color: #209cee;
+}
+.allmtccnt {
+  margin-top: 18px;
+  margin-left: 53px;
+  background-color: rgb(27, 33, 54);
+  width: 92%;
+}
+.hdr {
+  width: 100%;
+  position: sticky;
+}
+#tbdl {
+  overflow: scroll;
+}
+
+@media only screen and (max-width: 980px) {
+  .allmtccnt {
+    margin-left: 20px;
+  }
+}
