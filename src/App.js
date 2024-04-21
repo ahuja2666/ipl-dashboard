@@ -17,7 +17,7 @@ const App = () => {
 
   }, [year])
   return (
-    <>
+    <div className="main-container">
       <div className="headers">
         <h1>IPL DASHBOARD </h1>
       </div>
@@ -56,7 +56,7 @@ const App = () => {
           </div>
         </div>
       </div>
-    </>
+    </div>
   )
 }
 

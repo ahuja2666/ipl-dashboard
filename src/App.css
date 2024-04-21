@@ -1,3 +1,6 @@
+.main-container {
+  height: 100dvh;
+}
 .parentofallcn {
   display: flex;
   justify-content: space-between;
@@ -27,9 +30,9 @@
   .anotherfb {
     flex-direction: column;
 
-    margin-right: 25px;
+    margin-right: 0;
   }
   .stdiumdic {
-    margin-right: 20px;
+    margin-right: 0;
   }
 }
